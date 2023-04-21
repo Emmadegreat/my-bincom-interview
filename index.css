@@ -133,12 +133,6 @@ navbar ul li a:hover{
 /*============header end===============*/
 
 /*================hero-section=============*/
-/*.hero-section{
-    height: 90vh;
-    width: 100%;
-    position: relative;
-    background-color: var(--overlay);
-}*/
 .hero-section{
     width: 100%;
     height: 90vh;
@@ -155,7 +149,7 @@ navbar ul li a:hover{
 }
 @media screen and (max-width:425px){
     .hero-section{
-        height: 55vh;
+        height: 45vh;
         width: 100%;
     }
 }
