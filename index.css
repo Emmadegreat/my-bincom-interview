@@ -287,9 +287,7 @@ h3{
         max-width: 240px;
         height: auto;
         width: 100%;
-        border-radius: 0rem;
-        border-top-left-radius: 40%;
-        border-bottom-right-radius: 40%;
+        border-radius: 50%;
     }
     .skill-wrapper>div img{
         width: 80px;
